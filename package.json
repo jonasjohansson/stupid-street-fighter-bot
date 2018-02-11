@@ -1,0 +1,25 @@
+{
+  "name": "stupid-street-fighter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-cmd": "^3.0.0",
+    "robotjs": "^0.4.7",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasjohansson/stupid-street-fighter-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasjohansson/stupid-street-fighter-bot/issues"
+  },
+  "homepage": "https://github.com/jonasjohansson/stupid-street-fighter-bot#readme"
+}
